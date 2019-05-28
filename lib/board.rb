@@ -5,7 +5,9 @@ class Board
 def initialize
 end
 
-def display
+def display 
+  
+end
   
   def reset! 
     
