@@ -10,7 +10,7 @@ def display
 end
   
   def reset! 
-    Array.new(9, "")
-    Array.new.display
+    new_board = Array.new(9, "")
+    new_board.display
   end
 end
