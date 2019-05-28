@@ -11,5 +11,6 @@ end
   
   def reset! 
     Array.new(9, "")
+    Array.new.display
   end
 end
