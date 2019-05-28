@@ -10,6 +10,6 @@ def display
 end
   
   def reset! 
-    
+    Array.new(9, "")
   end
 end
